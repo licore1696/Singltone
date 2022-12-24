@@ -1,0 +1,2 @@
+# Singltone
+singleton implementation
